@@ -1,1 +1,1 @@
-# Note-Recognizer-generator
+# Note Recognizer / generator
